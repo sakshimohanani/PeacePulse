@@ -27,3 +27,25 @@ Ready to embark on your journey to mental well-being? Sign up for PeacePulse tod
 ## Contact Us
 
 Have questions or feedback? We'd love to hear from you! Reach out to us at(sakshi.mohanani@cumminscollege.in).
+
+## PeacePulse Project
+
+## Installation
+
+To run the PeacePulse Project, follow these steps:
+
+### Frontend
+
+1. Navigate to the frontend directory: cd frontend
+
+2. Install npm packages:npm i
+
+3. Start the frontend server:npm start
+
+### Backend
+
+1. Navigate to the backend directory:cd backend1
+   
+2. Install npm packages:npm i
+
+3. Start the backend server:npm start
